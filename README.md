@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SteveWemyss
-- 👀 I’m interested in Android development using Java
-- 🌱 I’m currently learning Kotlin
-- 📫 stevegarywemyss@gmail.com
+👋 Hi, I’m @SteveWemyss
+👀 A Student of Business Analytics
+🌱 I’m currently learning PowerBi, Tableau, Advanced Python.
+📫 stevegarywemyss@gmail.com
 
 <!---
 SteveWemyss/SteveWemyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
